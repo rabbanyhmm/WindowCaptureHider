@@ -132,3 +132,12 @@ This project is primarily for personal use, but improvements or suggestions are 
 This project is licensed under the [GNU Affero General Public License v3.0
 ](LICENSE).
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=myexistences%2FWindowCaptureHider&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=myexistences/WindowCaptureHider&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=myexistences/WindowCaptureHider&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=myexistences/WindowCaptureHider&type=date&legend=top-left" />
+ </picture>
+</a>
